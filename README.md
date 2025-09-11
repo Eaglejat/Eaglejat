@@ -1,12 +1,12 @@
 <div align="center">
 
-# 🚀 Vipul Jaat - Full Stack Developer & AI Enthusiast
+# 🚀 EagleJat - Full Stack Developer & AI Enthusiast
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Computer+Science+Engineering+Student;AI+%26+Chatbot+Developer;Telegram+Automation+Expert;Full+Stack+Developer;Open+Source+Contributor" alt="Typing SVG" />
 
-[![Profile Views](https://komarev.com/ghpvc/?username=vipul-jaat&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/vipul-jaat)
-[![GitHub followers](https://img.shields.io/github/followers/vipul-jaat?label=Followers&style=social)](https://github.com/vipul-jaat?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/vipul-jaat?label=Stars&style=social)](https://github.com/vipul-jaat)
+[![Profile Views](https://komarev.com/ghpvc/?username=eaglejatt&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/eaglejat)
+[![GitHub followers](https://img.shields.io/github/followers/eaglejat?label=Followers&style=social)](https://github.com/eaglejat?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/eaglejat?label=Stars&style=social)](https://github.com/eaglejat)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=30&fontAlignY=35&animation=twinkling&fontColor=white"/>
 
