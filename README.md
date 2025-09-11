@@ -16,7 +16,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-name: "Vipul Jaat"
+name: "Vipul Chaudhary"
 role: "Computer Science Engineering Student"
 location: "Gujarat, India"
 education: "B.Tech in Computer Science"
@@ -155,17 +155,17 @@ learning: ["Advanced Machine Learning", "Cloud Computing"]
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=vipul-jaat&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=vipul-jaat&theme=radical&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=eaglejat&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=eaglejatt&theme=radical&hide_border=true" />
 
-<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vipul-jaat&layout=compact&theme=radical&hide_border=true&langs_count=10" />
+<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eaglejat&layout=compact&theme=radical&hide_border=true&langs_count=10" />
 
 </div>
 
 ### 📈 Contribution Graph
 <div align="center">
 
-[![Vipul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vipul-jaat&theme=react-dark&hide_border=true)](https://github.com/vipul-jaat)
+[![Vipul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=eaglejat&theme=react-dark&hide_border=true)](https://github.com/eaglejat)
 
 </div>
 
@@ -190,7 +190,7 @@ learning: ["Advanced Machine Learning", "Cloud Computing"]
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vipul__j_a_a_t)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vipul__j_a_a_t)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vipul_22048@ldrp.ac.in)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vipul-jaat)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eaglejat)
 
 <br/>
 
