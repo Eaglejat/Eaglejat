@@ -238,25 +238,25 @@ motto: "Code with purpose, innovate with passion"
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Eaglejat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=GitHub%20Stats" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Eaglejat&theme=tokyonight&hide_border=true&stroke=00F7FF&ring=00F7FF&fire=FF6E00&currStreakLabel=00F7FF" alt="GitHub Streak" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Eaglejat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=GitHub%20Stats&bg_color=0d1117&title_color=00F7FF&icon_color=00F7FF&text_color=c9d1d9" alt="GitHub Stats" />
+<img width="49%" src="https://streak-stats.demolab.com?user=Eaglejat&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=FF6E00&currStreakLabel=00F7FF&sideNums=00F7FF&currStreakNum=00F7FF&sideLabels=C9D1D9" alt="GitHub Streak" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eaglejat&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&custom_title=Most%20Used%20Languages" alt="Top Languages" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Eaglejat&theme=tokyonight&hide_border=true&layout=compact" alt="WakaTime Stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eaglejat&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&custom_title=Most%20Used%20Languages&bg_color=0d1117&title_color=00F7FF&text_color=c9d1d9" alt="Top Languages" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Eaglejat&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&hide_rank=true&count_private=true&bg_color=0d1117&icon_color=00F7FF&text_color=c9d1d9" alt="Contribution Stats" />
 
 </div>
 
 ### 📈 Contribution Graph
 <div align="center">
 
-[![Vipul's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Eaglejat&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph&color=00F7FF&line=00F7FF&point=FFFFFF&area=true)](https://github.com/Eaglejat)
+[![Vipul's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Eaglejat&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&bg_color=0d1117)](https://github.com/Eaglejat)
 
 </div>
 
 ### 🏆 GitHub Trophies
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Eaglejat&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=Eaglejat&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 
 </div>
 
@@ -292,12 +292,12 @@ timeline
 
 | **Category** | **Skills** | **Proficiency** |
 |:---|:---|:---:|
-| **Programming** | Python, Java, JavaScript | ![90%](https://progress-bar.dev/90/?width=200&color=00F7FF) |
-| **AI/ML** | TensorFlow, PyTorch, OpenCV | ![85%](https://progress-bar.dev/85/?width=200&color=00F7FF) |
-| **Web Development** | React, Node.js, Flask | ![88%](https://progress-bar.dev/88/?width=200&color=00F7FF) |
-| **Databases** | MongoDB, MySQL, PostgreSQL | ![82%](https://progress-bar.dev/82/?width=200&color=00F7FF) |
-| **DevOps** | Docker, Git, Linux | ![80%](https://progress-bar.dev/80/?width=200&color=00F7FF) |
-| **Automation** | Telegram Bots, Scripting | ![92%](https://progress-bar.dev/92/?width=200&color=00F7FF) |
+| **Programming** | Python, Java, JavaScript | <img src="https://geps.dev/progress/90?dangerColor=00F7FF&warningColor=00F7FF&successColor=00F7FF" alt="90%" /> |
+| **AI/ML** | TensorFlow, PyTorch, OpenCV | <img src="https://geps.dev/progress/85?dangerColor=00F7FF&warningColor=00F7FF&successColor=00F7FF" alt="85%" /> |
+| **Web Development** | React, Node.js, Flask | <img src="https://geps.dev/progress/88?dangerColor=00F7FF&warningColor=00F7FF&successColor=00F7FF" alt="88%" /> |
+| **Databases** | MongoDB, MySQL, PostgreSQL | <img src="https://geps.dev/progress/82?dangerColor=00F7FF&warningColor=00F7FF&successColor=00F7FF" alt="82%" /> |
+| **DevOps** | Docker, Git, Linux | <img src="https://geps.dev/progress/80?dangerColor=00F7FF&warningColor=00F7FF&successColor=00F7FF" alt="80%" /> |
+| **Automation** | Telegram Bots, Scripting | <img src="https://geps.dev/progress/92?dangerColor=00F7FF&warningColor=00F7FF&successColor=00F7FF" alt="92%" /> |
 
 </div>
 
@@ -377,10 +377,20 @@ timeline
 
 ---
 
-### 🐍 Watch the Snake eat my contributions!
+### 🐍 Contribution Snake
 
-![GitHub Snake Light](https://raw.githubusercontent.com/Eaglejat/Eaglejat/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://raw.githubusercontent.com/Eaglejat/Eaglejat/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
+### 👀 Profile Views Counter
+<p align="center">
+  <img src="https://profile-counter.glitch.me/Eaglejat/count.svg" alt="Visitor Count" />
+</p>
 
 ---
 
@@ -391,8 +401,6 @@ timeline
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
 
 <br>
-
-![Visitor Count](https://profile-counter.glitch.me/Eaglejat/count.svg)
 
 **© 2026 EagleJat | Built with ❤️ and ☕**
 
