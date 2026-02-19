@@ -375,17 +375,14 @@ timeline
 ### 💭 Developer Quote of the Day
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" />
 
-### 🎵 Spotify Playing
-[![Spotify](https://novatorem-eaglejat.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_ID)
-
-### ☕ Support My Work
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/eaglejat)
-
 ---
 
-<img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+### 🐍 Watch the Snake eat my contributions!
 
-<br>
+![GitHub Snake Light](https://raw.githubusercontent.com/Eaglejat/Eaglejat/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/Eaglejat/Eaglejat/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
+---
 
 **⭐ If you find my work interesting, consider starring my repositories!**
 
@@ -395,7 +392,7 @@ timeline
 
 <br>
 
-![](https://hit.yhype.me/github/profile?user_id=Eaglejat)
+![Visitor Count](https://profile-counter.glitch.me/Eaglejat/count.svg)
 
 **© 2026 EagleJat | Built with ❤️ and ☕**
 
